@@ -1,0 +1,7 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: linux-64
+django=2.2.3=py37_0
+django-filter=2.2.0=py_0
+djangorestframework=3.10.1=py_0
+python=3.7.3=h0371630_0
